@@ -1,0 +1,51 @@
+/*
+    Student's Name: Beny Rivas
+    Date: 11/07/2024
+*/
+ /* Sets up the table layout */
+#part1 table{
+        width: 80%;
+    margin: 0 auto;
+    border: 3px solid #71881b;
+}
+/* Applies border collapse and padding for a consistent table layout */
+table, tr, th, td {
+  border-collapse: collapse;
+  padding: 2%;
+}
+/* Adjusts the caption's size and spacing */
+caption {
+  font-size: 2em;
+  padding: 2%;
+  margin-top: 2%;
+}
+/* Sets a thin border around each table header and data cell */
+th, td {
+  border: 1px solid #7188bb;
+}
+/* Centers text within each table data cell */
+td {
+  text-align: center;
+}
+/* Sets background color for odd-numbered rows */
+tr:nth-child(odd){
+  background-color: #d3e788;
+}
+#part1{
+  
+}
+
+
+#part2 table{
+    
+}
+
+#part2{
+    
+}
+
+
+footer{
+    text-align: center;
+}
+
